@@ -1,0 +1,59 @@
+.contact-submissions-container {
+    padding: 20px;
+}
+
+.submissions-title {
+    font-size: 24px;
+    margin-bottom: 20px; /* Add space below the title */
+}
+
+.submissions-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold; /* Make header text bold */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .submissions-table {
+        display: block; /* Make table responsive */
+        overflow-x: auto; /* Allow horizontal scrolling */
+        border: 1px solid #ddd; /* Add border to the table */
+    }
+
+    th, td {
+        display: block; /* Stack cells vertically */
+        text-align: right; /* Align text to the right for better readability */
+    }
+
+    th {
+        background-color: #f9f9f9; /* Slightly different background for headers */
+    }
+
+    td {
+        text-align: left; /* Align data to the left */
+        border-bottom: 1px solid #ddd; /* Add bottom border to cells */
+        position: relative; /* Position for pseudo-element */
+        padding-left: 50%; /* Indent text */
+    }
+
+    td::before {
+        content: attr(data-label); /* Use data-label for table headers */
+        position: absolute;
+        left: 10px; /* Position the label */
+        width: 40%; /* Adjust width */
+        padding-right: 10px; /* Space to the right */
+        white-space: nowrap; /* Prevent text wrap */
+        font-weight: bold; /* Make labels bold */
+    }
+}

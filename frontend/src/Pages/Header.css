@@ -1,0 +1,79 @@
+/* Navbar Styling */
+.navbar {
+    background-color: transparent; /* Transparent background for the navbar */
+    height: 90px;
+    transition: background-color 0.3s, border-bottom 0.3s;
+    padding: 0 60px;
+    border-bottom: 2px solid transparent;
+}
+
+.nav-brand {
+    margin-left: 100px;
+}
+
+.nav_items {
+    margin-left: 100px !important;
+}
+
+/* Navigation Links Styling */
+.nav_items .nav-link {
+    margin: 0 20px;
+    font-size: 18px;
+    color: #fff; /* Ensure link color is visible on transparent background */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+/* Center the nav links */
+.nav-head {
+    margin: 0 20px; /* Space between links */
+    font-size: 18px;
+    color: white !important; /* White color for links */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+/* Flex utility for centering nav items */
+.navbar .me-auto {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center; /* Centering the links */
+    margin-right: 200px !important;
+    align-items: center;
+}
+
+/* User Greeting and Buttons */
+.user-actions {
+    display: flex;
+    align-items: center; /* Center items vertically */
+    gap: 100px; /* Adjust spacing between username and button */
+    color: white;
+    white-space: nowrap; /* Prevent line breaks */
+}
+
+/* Username Greeting */
+.user-greeting {
+    white-space: nowrap; /* Prevents breaking into a new line */
+    font-size: 16px;
+}
+
+/* Logout Button Styling */
+.logout-btn {
+    font-size: 16px;
+    color: #fff;
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.logout-btn:hover {
+    color: #a12626;
+}
+
+/* Login Button Styling */
+.login-btn button {
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}

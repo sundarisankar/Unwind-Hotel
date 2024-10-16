@@ -1,0 +1,195 @@
+.image-home {
+    background-color: #2222227d;
+    height: 100vh;
+
+
+
+}
+
+.navBar_divClass {
+    overflow-x: hidden;
+    background-image: url(https://preview.colorlib.com/theme/unwind/images/bg_1.jpg.webp);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    /* position: absolute; */
+
+}
+.nav-navbar
+{
+    /* position: relative; */
+    /* padding-top: 90vh;
+    padding-left: 25vh;
+*/
+margin-top:-70px;
+margin-left: 20vh;
+/* margin-top: 50vh; */
+}
+.me-auto {
+    /* display:flex;
+    justify-content: center;
+    align-items: center; */
+
+    margin-left: 70vh;
+
+}
+
+.nav-head {
+    font-weight: 600;
+    font-size: 18px;
+    
+    color: rgb(201, 195, 195);
+  text-decoration: none;
+
+}
+
+
+
+.nav-head:hover {
+   color: white;
+}
+
+.center-home {
+    margin: 25vh 0px 0px 0vh;
+
+}
+
+.center-home-one {
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    font-family: Nunito, Arial, sans-serif;
+}
+
+.center-home-two {
+    font-size: 80px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-family: "Old Standard TT", Arial, sans-serif;
+}
+
+.rectangle {
+    width: 150vh;
+    height: 20vh;
+    border: 1px solid black;
+
+
+
+}
+
+.rec-angle-one {
+    background-color: black;
+    
+}
+
+.rec-angle-two {
+    /* padding-top: 7vh; */
+    background-color: rgb(236, 220, 139);
+}
+
+
+.gt0
+{
+
+
+  font-size: 50px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width:35vh;
+margin: 15vh 0vh 0vh 10vh;
+padding-top: 5vh;
+text-align: center;
+color: rgb(234, 214, 194);
+}
+
+.gt10
+{
+  
+  transition: border-color 0.3s ease;
+  color: rgb(213, 193, 193);
+  font-style: italic;
+  margin: 2vh 0vh 0vh 21vh;
+ 
+ text-decoration: none;
+
+position: relative;
+display: inline-block;
+font-size: 16px;
+}
+
+.gt10::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2px;
+  background-color: rgb(172, 57, 57); 
+  transition: width 0.3s ease; 
+
+}
+
+.gt10:hover::before {
+  width: 50%; 
+  background-color: black;
+}
+
+
+
+.bgg1
+{
+  
+  background-image: url('https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg?auto=compress&cs=tinysrgb&w=600');
+background-size: cover;
+background-position: center;
+height: 400px;
+width: 400px;
+position: absolute;
+margin-top: 10vh;
+
+
+}
+
+
+.bgg2
+{
+  
+  background-image: url('https://images.pexels.com/photos/2507010/pexels-photo-2507010.jpeg?auto=compress&cs=tinysrgb&w=600');
+background-size: cover;
+background-position: center;
+height: 400px;
+width: 400px;
+position: absolute;
+margin-top: 10vh;
+
+
+}
+
+
+.bgg3
+{
+  
+  background-image: url('https://images.pexels.com/photos/1268855/pexels-photo-1268855.jpeg?auto=compress&cs=tinysrgb&w=600');
+background-size: cover;
+background-position: center;
+height: 400px;
+width: 400px;
+position: absolute;
+margin-top: 10vh;
+
+}
+
+.contain-bg
+{
+    background-color: #2222227d;
+    height: 54vh;
+
+}
+.containers
+{
+position: relative;
+padding-top: 10vh;
+
+} 

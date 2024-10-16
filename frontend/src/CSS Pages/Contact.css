@@ -1,0 +1,73 @@
+.navBar_divClass-one-cont {
+    overflow-x: hidden;
+    background-image: url(https://plus.unsplash.com/premium_photo-1661964071015-d97428970584?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    
+   
+
+}
+.image-home-one-cont {
+    background-color: #2222227d;
+    height: 100vh;
+}
+.center-home-about-cont
+{
+    margin: 30vh 0px 0px 0vh;
+}
+.center-home-one-about-cont
+{
+    font-size: 17px;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    font-family: Nunito, Arial, sans-serif;
+}
+.center-home-one-about-cont:hover{
+    color: antiquewhite;
+}
+
+
+.center-home-two-about-cont
+{
+    font-size: 70px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-family: "Old Standard TT", Arial, sans-serif;
+}
+.button-cont
+{
+    background-color: rgb(200, 130, 38);
+    color: white;
+}
+
+.contact-inputs
+{
+    border: 1px solid rgb(215, 138, 30);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    display: flex;
+    direction: column;
+   margin-top: 3vh;
+   width: 40vh;
+}
+
+.button1
+{
+    width: 20vh;
+    background-color: rgb(220, 148, 54);
+    color: white;
+    
+ 
+}
+.image-cont
+{
+background-image: url(https://images.pexels.com/photos/3789045/pexels-photo-3789045.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
+background-size: cover;
+background-position: center;
+}

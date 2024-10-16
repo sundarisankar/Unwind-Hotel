@@ -1,0 +1,146 @@
+.image-home-room {
+    background-color: #2222227d;
+    height: 100vh;
+
+
+
+}
+
+.navBar_divClass-room {
+    overflow-x: hidden;
+    background-image: url(https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    /* position: absolute; */
+
+}
+
+.nav-navbar {
+    /* position: relative; */
+    /* padding-top: 90vh;
+    padding-left: 25vh;
+*/
+    margin-top: -70px;
+    margin-left: 20vh;
+    /* margin-top: 50vh; */
+}
+
+.me-auto {
+    /* display:flex;
+    justify-content: center;
+    align-items: center; */
+
+    margin-left: 70vh;
+
+}
+
+.nav-head {
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 7vh;
+    color: rgb(201, 195, 195);
+    text-decoration: none;
+
+}
+
+.nav-head:hover {
+    color: white;
+}
+
+
+.rectangle {
+    width: 150vh;
+    height: 20vh;
+    border: 1px solid black;
+
+
+
+}
+
+.rec-angle-one {
+    background-color: black;
+    padding-top: 8vh;
+}
+
+.rec-angle-two {
+    padding-top: 7vh;
+    background-color: rgb(236, 220, 139);
+}
+
+
+.center-home-two-about-room {
+    font-size: 70px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.dollar-night {
+    color: rgb(195, 89, 68);
+}
+
+.cont-suite {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(121, 123, 126);
+    margin-top: 3vh;
+}
+
+
+.book-now-suit {
+    border: 1px solid gray;
+    padding: 5px;
+    margin-left: 2vh;
+}
+
+.suiteroom-one {
+    width: 56vh;
+    height: 40vh;
+    margin-top: 3vh;
+    text-align: center;
+    box-shadow: 4px 4px 10px 2px rgba(0, 0, 0, 0.2);
+}
+
+.suiteroom-one-one {
+    width: 56vh;
+    height: 40vh;
+
+    text-align: center;
+    box-shadow: 4px 4px 10px 2px rgba(0, 0, 0, 0.2);
+}
+
+.suiteroom-one-one:hover {
+    background-color: #a59b9b82;
+
+}
+
+.suiteroom-one:hover {
+    background-color: #a59b9b82;
+
+}
+
+.services {
+    width: 25vh;
+    background: #e1d0d0;
+    padding: 30px 20px;
+    border-radius: 50% 50% 50% 0;
+    margin-top: 20vh;
+    margin-left: 8vh;
+    box-shadow: 0px 5px 25px -2px rgba(0, 0, 0, 0.06);
+}
+
+.wifi {
+    font-size: 8vh;
+    width: 20vh;
+    color: #bc7b7b;
+}
+
+.wifi-alter {
+    font-size: 3vh;
+    font-weight: 600;
+    text-align: center;
+
+}

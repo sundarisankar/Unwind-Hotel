@@ -1,0 +1,42 @@
+.room-list-container {
+  padding: 20px;
+}
+
+.room-row {
+  margin-bottom: 30px;
+}
+
+.room-grid {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.room-box {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 200px;
+}
+
+.room-box.occupied {
+  background-color: #f8d7da;
+}
+
+.room-box.available {
+  background-color: #d4edda;
+}
+
+.room-number {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.room-details {
+  margin-top: 10px;
+}
+
+h2 {
+  text-align: center;
+}

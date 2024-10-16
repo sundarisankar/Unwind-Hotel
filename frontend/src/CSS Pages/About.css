@@ -1,0 +1,130 @@
+.navBar_divClass-one {
+    overflow-x: hidden;
+    background-image: url(https://preview.colorlib.com/theme/unwind/images/bg_3.jpg.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+.image-home-one {
+    background-color: #2222227d;
+    height: 100vh;
+}
+
+.center-home-about {
+    margin: 30vh 0px 0px 0vh;
+}
+
+.center-home-one-about {
+    font-size: 17px;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    font-family: Nunito, Arial, sans-serif;
+}
+
+.center-home-one-about:hover {
+    color: antiquewhite;
+}
+
+.center-home-two-about {
+    font-size: 70px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-family: "Old Standard TT", Arial, sans-serif;
+}
+
+.ablut-cont {
+    /* background-color:white; */
+    margin-top: 2vh;
+    /* color: black; */
+    border: 1px solid black;
+    width: 40vh;
+    height: 40vh;
+    box-shadow: 4px 4px 10px 2px rgba(0, 0, 0, 0.2);
+
+}
+
+.ablut-cont:hover {
+    background-color: rgb(36, 34, 34);
+    color: white;
+}
+
+.hotel-about {
+    overflow-x: hidden;
+    margin-top: 10vh;
+
+}
+
+.unwind-cont {
+    font-size: 10vh;
+    font-family: cursive;
+
+}
+
+.unwind-cont-nxt {
+
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(178, 175, 172);
+    margin-top: 5vh;
+}
+
+.find-best {
+    background-image: url(https://preview.colorlib.com/theme/unwind/images/bg_1.jpg.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40vh;
+    margin-top: 10vh;
+
+
+}
+
+.find-best-color {
+
+    background-color: #1c1919e3;
+    height: 40vh;
+
+
+}
+
+.find-best-color-one {
+
+    background-color: #1c19198f;
+    height: 90vh;
+
+
+}
+
+.tour-bg {
+    background-image: url(https://preview.colorlib.com/theme/unwind/images/bg_2.jpg.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+
+.video-icon {
+    width: 80px !important;
+    height: 80px;
+    border-radius: 50%;
+    display: block;
+    background: #c5a880;
+    margin: 0 auto;
+    /* -webkit-animation: pulse 2s infinite;
+    animation: pulse 2s infinite; */
+    border: 1px solid white;
+
+}
+
+.unwind-cont-nxt-carrosal {
+
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(108, 106, 104);
+
+
+}

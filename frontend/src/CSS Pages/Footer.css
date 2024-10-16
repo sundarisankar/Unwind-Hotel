@@ -1,0 +1,64 @@
+.back-bg
+{
+    background-color:  rgb(41, 39, 39);
+    color: white;
+padding-top: 10vh;
+padding-bottom: 10vh;
+    
+}
+.icon-box
+{
+    width: 30px;
+    height: 30px;
+  
+    padding: 5px;
+   
+    border-radius: 3px;
+    background-color: white;
+    opacity: 0.9;
+    color: rgb(222, 153, 62);
+}
+
+
+
+.icon-box1
+{
+    width: 30px;
+    height: 30px;
+  margin-left: 2vh;
+    padding: 5px;
+   
+    border-radius: 3px;
+    background-color: white;
+    opacity: 0.9;
+    color: rgb(222, 153, 62);
+}
+
+.service-cont
+{
+    margin-top: 5vh;
+   color: #ffffffb3;
+}
+
+.service-cont-serve
+{
+    color: #ffffffb3;
+}
+.service-cont-one
+{
+    margin-top: 8vh;
+    color: #ffffffb3;
+}
+.final-foot
+{
+    color: #ffffff80;
+    text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+ 
+
+   
+}

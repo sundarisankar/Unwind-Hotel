@@ -1,0 +1,121 @@
+
+.navBar_divClass-one-blog {
+    overflow-x: hidden;
+    background-image: url(https://preview.colorlib.com/theme/coffeeblend/images/bg_3.jpg.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    
+   
+
+}
+.image-home-one-blog {
+    background-color: #2222227d;
+    height: 100vh;
+}
+.center-home-about-blog
+{
+    margin: 30vh 0px 0px 0vh;
+}
+.center-home-one-about-blog
+{
+    font-size: 17px;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    font-family: Nunito, Arial, sans-serif;
+}
+.center-home-one-about-blog:hover{
+    color: antiquewhite;
+}
+
+
+.center-home-two-about-blog
+{
+    font-size: 70px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-family: "Old Standard TT", Arial, sans-serif;
+}
+
+
+
+
+.title-blog
+{
+    font-size: 32px;
+   
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2vh;
+   
+}
+
+.title-blog:hover
+{
+color: rgb(188, 87, 87);
+}
+.content-blog
+{
+    margin-top: 1vh;
+    font-size: 13px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.des-blog
+{
+    color: rgb(132, 122, 122);
+}
+.last-blog
+{
+    margin-top: 1vh;
+    font-size: 12px;
+    font-weight: 500;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.category
+{
+    font-size: 3vh;
+    font-weight: 500;
+}
+
+
+
+.category-color:hover
+{
+    color: rgb(225, 106, 106);
+}
+.last-blog:hover
+{
+    color: rgb(225, 106, 106);
+}
+.data-title
+{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+
+}
+
+.data-title:hover
+{
+    color: brown;
+}
+.data.des-blog{
+
+
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(177, 179, 181);
+
+}
+
+.card-blog-box{
+
+    box-shadow: 0px 5px 25px -2px rgba(0, 0, 0, 0.1);
+    margin: 2vh 5vh 0vh 0vh;
+    width: 52vh;
+}

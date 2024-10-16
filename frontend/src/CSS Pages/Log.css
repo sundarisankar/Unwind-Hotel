@@ -1,0 +1,59 @@
+.bg {
+  background-color: antiquewhite;
+}
+
+.log-head {
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+  color: rgb(237, 171, 84);
+}
+
+.log-next {
+  display: flex;
+  justify-content: center;
+}
+
+.log-next-one {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3vh;
+}
+
+.button-1 {
+  width: 10vh;
+  text-align: center;
+  margin-left: 29vh;
+}
+
+.icon-space {
+  margin-left: 5px;
+}
+
+.nav-head-one {
+  font-weight: 600;
+  font-size: 18px;
+  background-color: rgb(227, 174, 106);
+  color: rgb(201, 195, 195);
+  text-decoration: none;
+}
+
+.unwind-book {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 2vh;
+}
+
+.login-button2 {
+  text-align: center;
+  margin: 2vh auto 2vh 29vh;
+}
+
+.back-img-login {
+  background-image: url(https://preview.colorlib.com/theme/unwind/images/bg_3.jpg.webp);
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  height: 100vh;
+}
